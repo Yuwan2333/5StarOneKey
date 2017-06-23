@@ -28,12 +28,12 @@
         document.querySelector("#AnswersController > form > div:nth-child(2) > div:nth-child(1) > div:nth-child(10) > button:nth-child(5)").click();
     };
     
-    var _533355 = document.createElement("button");
+    var _353355 = document.createElement("button");
     var textnode = document.createTextNode("353355");
-    _533355.className = "button big-submit-button";
-    _533355.appendChild(textnode);
-    target1.appendChild(_533355);
-    _533355.onclick = function(){
+    _353355.className = "button big-submit-button";
+    _353355.appendChild(textnode);
+    target1.appendChild(_353355);
+    _353355.onclick = function(){
         document.querySelector("#AnswersController > form > div:nth-child(1) > div:nth-child(1) > div.btn-group > button:nth-child(3)").click();
         document.querySelector("#AnswersController > form > div:nth-child(1) > div.col-xs-12.col-sm-4.pull-right.text-center > div:nth-child(5) > button:nth-child(5)").click();
         document.querySelector("#AnswersController > form > div:nth-child(1) > div.col-xs-12.col-sm-4.pull-right.text-center > div:nth-child(10) > button:nth-child(3)").click();
